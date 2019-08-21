@@ -8,7 +8,6 @@ Before you are able to run on your device (pre-Google Play Production) download 
 https://expo.io/
 ------------------------------
 
-![Image](assets/Login.PNG?raw=true "Login")
-<img src="assets/Login.PNG"  height="200">
+<img src="assets/Login.PNG"  height="400">
 
-![Image](assets/Home.PNG?raw=true "Home")
+<img src="assets/Home.PNG" height="400">
