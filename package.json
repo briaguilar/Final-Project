@@ -1,5 +1,9 @@
 {
   "main": "node_modules/expo/AppEntry.js",
+  "name": "finalproject",
+  "homepage": "http://briaguilar.github.io/Final-Project",
+  "version": "0.1.0",
+  "private": true,
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
@@ -23,12 +27,5 @@
   "devDependencies": {
     "babel-preset-expo": "^6.0.0",
     "gh-pages": "^2.1.1"
-  },
-  // "private": true,
-  {
-    "name": "myapp",
-    "homepage": "http://briaguilar.github.io/Final-Project",
-    "version": "0.1.0",
-    "private": true
-  }
+  }  
 }
