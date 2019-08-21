@@ -15,4 +15,4 @@ https://expo.io/
 
 -----------------------------------------------------------------------------
 
-<img src="assets/Login.PNG"  height="600"><img src="assets/Home.PNG" height="600">
+<img src="assets/Login.PNG"  height="600" text-align="center"><img src="assets/Home.PNG" height="600" text-align="center">
