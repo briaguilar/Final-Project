@@ -5,7 +5,9 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
-    "eject": "expo eject"
+    "eject": "expo eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "expo": "^34.0.1",
@@ -19,7 +21,14 @@
     "util": "*"
   },
   "devDependencies": {
-    "babel-preset-expo": "^6.0.0"
+    "babel-preset-expo": "^6.0.0",
+    "gh-pages": "^2.1.1"
   },
-  "private": true
+  // "private": true,
+  {
+    "name": "myapp",
+    "homepage": "http://briaguilar.github.io/Final-Project",
+    "version": "0.1.0",
+    "private": true
+  }
 }
